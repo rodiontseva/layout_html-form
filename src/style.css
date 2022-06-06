@@ -1,1 +1,19 @@
 /* styles go here */
+.question-groups {
+  margin: 20px;
+  margin-bottom: 0;
+}
+
+.form-field {
+  display: block;
+  margin: 10px;
+  margin-bottom: 0;
+}
+
+.first-element {
+  margin-top: 0;
+}
+
+.button {
+  margin: 20px;
+}
